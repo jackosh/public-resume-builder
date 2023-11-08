@@ -127,7 +127,7 @@
         <v-card flat>
             <v-card-text>
                 This Resume was created with Nuxt 3, Vuetify.<br />
-                See complete source on <a href="https://github.com/jackosh/resume-builder">https://github.com/jackosh/resume-builder</a>
+                See complete source on <a href="https://github.com/jackosh/public-resume-builder">https://github.com/jackosh/public-resume-builder</a>
             </v-card-text>
         </v-card>
     </v-row>
