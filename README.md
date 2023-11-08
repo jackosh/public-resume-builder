@@ -1,8 +1,8 @@
 # Resume Builder
 
-Run install from ***Setup*** section
+Run install from [Setup](#setup) section
 
-Run Dev-Server from ***Development Server*** secion
+Run Dev-Server from [Development Server](#development-server) section
 
 Feel free to edit assets/applicat.json File to create your own Resume.
 
