@@ -1,3 +1,16 @@
+# Resume Builder
+
+Run install from ***Setup*** section
+
+Run Dev-Server from ***Development Server*** secion
+
+Feel free to edit assets/applicat.json File to create your own Resume.
+
+You can access Resume on [localhost:3000/resume](localhost:3000/resume)
+
+<img src="./public/resume.example.png" />
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
