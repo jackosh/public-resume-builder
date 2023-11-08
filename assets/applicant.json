@@ -1,0 +1,89 @@
+{
+    "applicant": {
+        "firstName": "John",
+        "secondName": "Doe",
+        "birthDate": "01.02.1987",
+        "birthPlace": "New York, USA",
+        "familyState": "single",
+        "address": {
+            "street": "704 Hauser St",
+            "zip": "NY 11374",
+            "city": "New York. N.Y"
+        },
+        "telephone": "+12 902 9107393",
+        "email": "john.doe@gmail.com",
+        "profilImagePath": "person.jpg"
+    },
+    "skills": [
+        "Nuxt",
+        "Vue.js",
+        "React",
+        "Angular",
+        "Docker",
+        "Node.js"
+    ],
+    "experience": [
+        {
+            "dateFrom": "05.2020",
+            "dateTo": "08.2023",
+            "firmName": "Station 1",
+            "role": "Role 1",
+            "tasks": [
+                "Task #1",
+                "Task #2"
+            ],
+            "techStack": [
+                "React",
+                "Java"
+            ]
+        },
+        {
+            "dateFrom": "03.2018",
+            "dateTo": "01.2020",
+            "firmName": "Station 2",
+            "role": "Role 2",
+            "tasks": [
+                "Task #1",
+                "Task #2"
+            ],
+            "techStack": [
+                "PHP Laravel",
+                "React",
+                "Jquery",
+                "Docker",
+                "AWS, Terraform"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "dateFrom": "01.08.2020",
+            "dateTo": "08.08.2020",
+            "instituteName": "Station 1"
+        },
+        {
+            "dateFrom": "05.04.2020",
+            "dateTo": "31.07.2020",
+            "instituteName": "Station 2"
+        },
+        {
+            "dateFrom": "05.01.2011",
+            "dateTo": "01.09.2011",
+            "instituteName": "Station 3"
+        },
+        {
+            "dateFrom": "2005",
+            "dateTo": "2007",
+            "instituteName": "Station 4"
+        },
+        {
+            "dateFrom": "2003",
+            "dateTo": "2005",
+            "instituteName": "Station 5"
+        }
+    ],
+    "languages": [
+        "Deutsch",
+        "English"
+    ]
+}
